@@ -1,0 +1,12 @@
+{
+  "author": "Hiroshi HORIKI <bump.luv@gmail.com>",
+  "name": "plist-connect",
+  "description": "add capability to return plist",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
