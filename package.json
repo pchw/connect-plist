@@ -7,6 +7,7 @@
     "connect",
     "middleware"
   ],
+  "main": "./lib/plist.js",
   "version": "0.1.0",
   "dependencies": {
     "plist": "~0.4.1"
