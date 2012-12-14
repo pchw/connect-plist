@@ -2,11 +2,15 @@
   "author": "Hiroshi HORIKI <bump.luv@gmail.com>",
   "name": "connect-plist",
   "description": "add capability to return plist",
-  "keywords": ["plist", "connect", "middleware"],
-  "version": "0.0.0",
+  "keywords": [
+    "plist",
+    "connect",
+    "middleware"
+  ],
+  "version": "0.1.0",
   "dependencies": {
     "plist": "~0.4.1"
-    },
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
